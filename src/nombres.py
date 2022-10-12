@@ -3,6 +3,10 @@
 # Modulo de funciones del proyecto nombres
 
 def lee_nombres(nombre_fichero) :
+    """
+    Descripción de la tarea que hace. Parametros de entrada y resultado devuelto
+    
+    """
     lista = []
 
 
